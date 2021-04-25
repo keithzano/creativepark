@@ -16,7 +16,7 @@
                 <a class="btn btn-primary btn-lg" href="tel:+27610717955" role="button">061 071 7955</a>
                 <a class="btn btn-outline-primary btn-lg" href="mailto:info@keithzano.com" role="button">Email Us</a>
               </div>
-              <div class="col-sm-12 col-md-6 my-auto py-3"data-sal="slide-up" data-sal-duration="600">
+              <div class="col-sm-12 col-md-6 my-auto py-3">
                 <img class="image" src="images/website-design.webp" alt="website design" loading="lazy">
               </div>
           </div>

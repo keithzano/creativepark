@@ -32,7 +32,3 @@
 	})();
 </script>
 <!--End of Tawk.to Script-->
-
-<script>
-	sal();
-</script>

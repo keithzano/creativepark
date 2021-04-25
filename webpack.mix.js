@@ -16,4 +16,6 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css', [
         //
     ])
-    .purgeCss();
+    .purgeCss({
+    	safelist: ['dropdown-menu-end','data-bs-popper',]
+    });
