@@ -30,7 +30,7 @@ class CompanyRegistrationMe extends Mailable
      */
     public function build()
     {
-        return $this->from('no-reply@keithzano.com')
+        return $this->from('no-reply@creativepark.co.za')
                     ->subject('Company Registration')
                     ->markdown('emails.company-reg.register-me');
     }

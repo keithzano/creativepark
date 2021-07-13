@@ -31,7 +31,7 @@ class ContactFormMail extends Mailable
      */
     public function build()
     {
-        return $this->from('no-reply@keithzano.com')
+        return $this->from('no-reply@creativepark.co.za')
                     ->subject('ketihzano contact form submission')
                     ->markdown('emails.contact.contact-form');
     }

@@ -30,7 +30,7 @@ class ContactFormMe extends Mailable
      */
     public function build()
     {
-        return $this->from('no-reply@keithzano.com')
+        return $this->from('no-reply@creativepark.co.za')
                     ->subject('You have a new Form submission')
                     ->markdown('emails.contact.contact-form-me');
     }
